@@ -1,6 +1,24 @@
-#Readme
+# Course details
+1h 28m  Advanced  Released: 5/14/2018
+Build scalable and reliable microservices with Kubernetes. Kubernetes is a popular DevOps tool for managing containers at scale. Microservices allow developers to deploy individual app components, enabling continuous integration and increased fault tolerance. This course teaches how these technologies combine—culminating in a real-world microservices application hosted in a Kubernetes environment. Instructor Karthik Gaekwad describes the benefits of microservices and shows how they can be implemented inside the container-based architecture paradigm. Using an existing monolithic application, he breaks down its functionality, adds Kubernetes constructs, and deploys the new services into a Kubernetes environment with Minikube. Finally, Karthik introduces tools such as Helm and Jaeger, which are used along with Kubernetes to build more resilient microservices.
 
-Required installations:
+## Learning objectives
+- Microservices 101
+- Design patterns for microservices
+- Example microservices application
+- Deployment options
+- Service proxying
+- Metrics
+- Logging
+- Skills covered in this course
+- DevOpsKubernetesMicroservices
+- Viewers of this course
+
+## Instructor
+Karthik Gaekwad
+Principal Oracle Engineer
+
+# Required installations:
 Docker (Community Edition, Stable build): https://www.docker.com/community-edition#/download
 kubectl: https://kubernetes.io/docs/tasks/tools/install-kubectl/
 Virtualbox: https://www.virtualbox.org/wiki/Downloads
